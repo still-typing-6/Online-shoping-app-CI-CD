@@ -2,7 +2,7 @@ version: "1.0"
 name: myapp
 services:
   shop-app:
-    image: online-shopping-app:latest
+    image: typoerror/online-shopping-app:latest
     ports:
       - "80:80" 
     restart: always
