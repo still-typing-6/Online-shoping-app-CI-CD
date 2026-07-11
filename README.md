@@ -7,6 +7,7 @@ Welcome to the **Online Shop** project – our hackathon entry for Phase 1! This
 - **Git & GitHub**
 - **Linux**
 - **Docker**
+- **Jenkins**
 
 In this phase, your focus is on understanding the provided developer code, reviewing how these core topics are implemented, and making any necessary enhancements. When you're ready, you'll submit your work via our designated Google Form.
 
